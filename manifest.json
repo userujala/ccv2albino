@@ -1,5 +1,6 @@
 {
     "commerceSuiteVersion": "1811",
+    "troubleshootingModeEnabled":true,
     "useCloudExtensionPack": true,
     "extensions": [
         "kiwi",
